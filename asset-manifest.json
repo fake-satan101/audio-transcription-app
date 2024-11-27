@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/audio-transcription-app/static/css/main.a4f18eb5.css",
+    "main.css": "/audio-transcription-app/static/css/main.f276234c.css",
     "main.js": "/audio-transcription-app/static/js/main.72749909.js",
-    "static/media/bg.jfif": "/audio-transcription-app/static/media/bg.124413fdb13bb8977523.jfif",
+    "static/media/pexels-instawally-176851.jpg": "/audio-transcription-app/static/media/pexels-instawally-176851.42adfca2b9c24a09ac03.jpg",
     "index.html": "/audio-transcription-app/index.html",
-    "main.a4f18eb5.css.map": "/audio-transcription-app/static/css/main.a4f18eb5.css.map",
+    "main.f276234c.css.map": "/audio-transcription-app/static/css/main.f276234c.css.map",
     "main.72749909.js.map": "/audio-transcription-app/static/js/main.72749909.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4f18eb5.css",
+    "static/css/main.f276234c.css",
     "static/js/main.72749909.js"
   ]
 }
