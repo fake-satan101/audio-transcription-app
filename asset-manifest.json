@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/audio-transcription-app/static/css/main.bdbb5ac3.css",
+    "main.css": "/audio-transcription-app/static/css/main.7c01b06b.css",
     "main.js": "/audio-transcription-app/static/js/main.72749909.js",
     "index.html": "/audio-transcription-app/index.html",
-    "main.bdbb5ac3.css.map": "/audio-transcription-app/static/css/main.bdbb5ac3.css.map",
+    "main.7c01b06b.css.map": "/audio-transcription-app/static/css/main.7c01b06b.css.map",
     "main.72749909.js.map": "/audio-transcription-app/static/js/main.72749909.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdbb5ac3.css",
+    "static/css/main.7c01b06b.css",
     "static/js/main.72749909.js"
   ]
 }
